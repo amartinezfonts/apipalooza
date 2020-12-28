@@ -1,0 +1,1 @@
+This tutorial comes from Tania Rascia's site [How to Connect to an API with JavaScript|https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/], and uses the [Studio Ghibli API|https://ghibliapi.herokuapp.com/] as a data source.
